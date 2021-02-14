@@ -3,9 +3,9 @@
 using System;
 using System.Threading;
 
-namespace Gol_Bucek
+namespace Program
 {
-    class Gol_Bucek
+    class Program
     {
         const int SIZE_X = 100;
         const int SIZE_Y = 30;
