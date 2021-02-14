@@ -1,13 +1,4 @@
-﻿/***********************************************************************************************
- * Übungsnr:        18                                     
- * Programmname:    GameOfLife
- * Autor:           Michael Bucek  
-                             
- * ------------------------------------------------ 
- * Kurzbeschreibung:      
- * Die Simulation GameOfLife soll implementiert werden. Anleitung unter:
- * http://de.wikipedia.org/wiki/Conways_Spiel_des_Lebens
- ************************************************************************************************/
+
 
 using System;
 using System.Threading;
